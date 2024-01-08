@@ -19,7 +19,7 @@
       </p>
       <h1>Resources</h1>
       <p>
-        <a href="">
+        <a href="https://science.nd.edu/assets/270157/prayerbook.pdf">
           The Norte Dame Book of Prayer - Stand against cancer.
         </a>
       </p>
