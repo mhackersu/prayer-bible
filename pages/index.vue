@@ -17,6 +17,12 @@
       <p>
         If you have any questions or want to support the project, please contact below.
       </p>
+      <h1>Resources</h1>
+      <p>
+        <a href="">
+          The Norte Dame Book of Prayer - Stand against cancer.
+        </a>
+      </p>
     </div>
     <FeedbackForm />
   </main>
